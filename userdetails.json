@@ -1,0 +1,64 @@
+{
+    "user": [
+        {
+            "Username": "Megha",
+            "Password": "Megha@12",
+            "Profile": {
+                "description": "i like to watch movies",
+                "d_o_b": "29 march",
+                "Gender": "female",
+                "Hobbies": "i like to watch movies"
+            }
+        },
+        {
+            "Username": "muskan",
+            "Password": "Muskan#12",
+            "Profile": {
+                "description": "i like crafting",
+                "d_o_b": "17 feb",
+                "Gender": "female",
+                "Hobbies": "i like crafting"
+            }
+        },
+        {
+            "Username": "jyoti",
+            "Password": "Jyoti_123",
+            "Profile": {
+                "description": "i like to do study",
+                "d_o_b": "14 feb",
+                "Gender": "female",
+                "Hobbies": "i like to do study"
+            }
+        },
+        {
+            "Username": "kajal",
+            "Password": "Kajal$12",
+            "Profile": {
+                "description": "i like to do dance",
+                "d_o_b": "12 sep",
+                "Gender": "female",
+                "Hobbies": "i like to do dance"
+            }
+        },
+        {
+            "Username": "aditya",
+            "Password": "Aditya#143",
+            "Profile": {
+                "description": "i am muskan brother",
+                "d_o_b": "1 june",
+                "Gender": "male",
+                "Hobbies": "i like to help my sister's"
+            }
+        },
+        {
+            "Username": "amla",
+            "Password": "Amla@12",
+            "Profile": {
+                "description": "i am amla",
+                "d_o_b": "12 jan",
+                "Gender": "femala",
+                "Hobbies": "i like to do coding"
+            }
+        }
+    ]
+}
